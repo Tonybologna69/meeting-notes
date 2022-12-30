@@ -117,6 +117,8 @@ important to consider the print side of things as it adds **constraints & challe
 | POD - magcloud - magazine | US letter            | saddle stitch / paperback | n/a          | 13 USD        | 5 - 12 USD |
 | POD - magcloud - digest   | half letter          | saddle stitch / paperback | n/a          | 10 USD        | 5 - 10 USD |
 
+others to consider: check book / zine on https://buildlist.org/
+
 sources:
 - [lulu pricing page](https://www.lulu.com/pricing)
 - [magcloud pricing page](https://www.magcloud.com/formats/pricingcalculator)
